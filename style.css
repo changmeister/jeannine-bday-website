@@ -78,8 +78,8 @@ nav a{
 }
 
 #temp{
-    width: 600px;
-    height: 600px;
+    width: 500px;
+    height: 500px;
 }
 
 #letter-section img{
@@ -106,8 +106,8 @@ nav a{
 
 .container .box{
     position: relative;
-    width: 500px;
-    height: 500px;
+    width: 400px;
+    height: 400px;
     margin: 10px;
     box-sizing: border-box;
     display: inline-block;
