@@ -59,9 +59,9 @@ nav a{
     text-align: center;
 }
 
-.letter-text-container{
+.letter-text-img-container{
     display: flex;
-    align-items: center;
+    justify-content: space-around;
     flex-direction: row;
 }
 
@@ -79,8 +79,8 @@ nav a{
 
 #temp{
     object-fit: cover;
-    width: 550px;
-    height: 550px;
+    width: 350px;
+    height: 350px;
 }
 
 #letter-section img{
@@ -107,8 +107,8 @@ nav a{
 
 .container .box{
     position: relative;
-    width: 300px;
-    height: 300px;
+    width: 350px;
+    height: 350px;
     margin: 10px;
     box-sizing: border-box;
     display: inline-block;
