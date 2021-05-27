@@ -74,13 +74,13 @@ nav a{
 
 .letter-text-container p{
     margin: 50px;
-    font-size: 15px;
+    font-size: 12px;
 }
 
 #temp{
     object-fit: cover;
-    width: 350px;
-    height: 350px;
+    width: 250px;
+    height: 250px;
 }
 
 #letter-section img{
@@ -107,8 +107,8 @@ nav a{
 
 .container .box{
     position: relative;
-    width: 300px;
-    height: 300px;
+    width: 250px;
+    height: 250px;
     margin: 10px;
     box-sizing: border-box;
     display: inline-block;
